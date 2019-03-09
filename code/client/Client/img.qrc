@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/jpg">
+        <file>bgimg.jpg</file>
+        <file>contact.png</file>
+        <file>draft.png</file>
+        <file>dustbin.png</file>
+        <file>inbox.png</file>
+        <file>send.png</file>
+        <file>write.png</file>
+        <file>logbg.jpg</file>
+    </qresource>
+</RCC>
